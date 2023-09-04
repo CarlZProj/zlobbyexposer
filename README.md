@@ -13,14 +13,14 @@ This README offers comprehensive guidance on configuring, setting up, and effect
 
 ## Getting started
 
-First, make a [Riot Developer Account](https://developer.riotgames.com/)\
+First, clone the repository:
+
+`git clone https://github.com/CarlZProj/zlobbyexposer.git`
+
+Next, make a [Riot Developer Account](https://developer.riotgames.com/)\
 Create a .env file and paste your api key
 
 `RIOT_API_KEY=(api_key)`
-
-Next, clone the repository:
-
-`git clone https://github.com/CarlZProj/zlobbyexposer.git`
 
 ### In one terminal
 
