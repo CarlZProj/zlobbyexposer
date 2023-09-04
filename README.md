@@ -51,6 +51,7 @@ Home Screen
 Lobby Screen
 
 ![Lobby!](lobby.jpg)
+Note: Support icon is missing because Riot has not updated their assets for the new Emerald rank\
 
 Error Screen
 
